@@ -1,4 +1,4 @@
 # Basic Website Demo
 
-This website is use only html and css !
+This is a demo web page created by html and css only !
 Its a demo site !

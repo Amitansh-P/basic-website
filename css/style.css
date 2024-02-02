@@ -74,8 +74,8 @@ body{
     background: #333;
     color: #fff;
     text-align: center;
-    padding: 20px;
-    margin-top: 40px;
+    padding: 0.05px;
+    margin-top: 125px;
 }
 
 @media(max-width:600px){
